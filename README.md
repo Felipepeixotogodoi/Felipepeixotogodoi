@@ -1,6 +1,6 @@
-# Hi 👋, I'm Herbert Souza
+# Hi 👋, I'm Felipe Peixoto
 
-🚀 **Senior Software Engineer | JavaScript & .NET Specialist**  
+🚀 **Student Software Engineer | JavaScript & .NET Specialist**  
 🇧🇷 Brazil
 
 I build **scalable products**, **SaaS platforms**, and **high-performance web systems**.  
